@@ -1,2 +1,2 @@
 httpx
-mcp-simple-arxiv
+git+https://github.com/zecloud/mcp-simple-arxiv
